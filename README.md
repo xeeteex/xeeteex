@@ -43,3 +43,5 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/xeeteex/xeeteex/output/snake.svg" alt="Snake animation" />
