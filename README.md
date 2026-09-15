@@ -11,9 +11,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman logo" />
 </div>
 
 ###
